@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on My New Hugo Site</title>
+    <link>https://example.org/plantillas/markdown/index.html</link>
+    <description>Recent content in Markdown on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 10:56:37 +0200</lastBuildDate><atom:link href="https://example.org/plantillas/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titulos</title>
+      <link>https://example.org/plantillas/markdown/titulos/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:31:48 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/titulos/index.html</guid>
+      <description># H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alternativamente, para H1 y H2, puedo utilizar una forma subrayada: H1 === H2 ---H1 H2 H3 H4 H5 H6 Alternativamente, para H1 y H2, puedo utilizar una forma subrayada:
+H1 H2 </description>
+    </item>
+    <item>
+      <title>Emphasis</title>
+      <link>https://example.org/plantillas/markdown/emphasis/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:05 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/emphasis/index.html</guid>
+      <description>Para subrayar un texto, con *asteriscos* o _barra baja_. Texto en negrita, con **asteriscos** o __barra baja__. para ambos, con **_asteriscos y barra baja_**. Para tachar un texto, ~~Tachar~~Para subrayar un texto, con asteriscos o barra baja.
+Texto en negrita, con asteriscos o barra baja.
+para ambos, con asteriscos y barra baja.
+Para tachar un texto, Tachar.</description>
+    </item>
+    <item>
+      <title>listas</title>
+      <link>https://example.org/plantillas/markdown/lists/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:14 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/lists/index.html</guid>
+      <description>1. Primer item de una lista ordenada 2. Otro item + Sub-lista sin ordenar con 4 espacios. 3. Otro item 1. Sub-lista ordenada con 4 espacios. 4. Otro item. Puedes tener párrafos con sangría dentro de los elementos de la lista, solo necesitas 4 espacios tambien(o un TAB). * Una lista sin ordenar pueden utilizar asteriscos - O menos(-) + O mases(+) Primer item de una lista ordenada
+Otro item</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>https://example.org/plantillas/markdown/links/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:23 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/links/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imágenes</title>
+      <link>https://example.org/plantillas/markdown/imagenes/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:36 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/imagenes/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codigo</title>
+      <link>https://example.org/plantillas/markdown/codigo/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:44 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/codigo/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Footnotes</title>
+      <link>https://example.org/plantillas/markdown/footnotes/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:58 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/footnotes/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tablas</title>
+      <link>https://example.org/plantillas/markdown/tablas/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:33:09 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/tablas/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockquotes</title>
+      <link>https://example.org/plantillas/markdown/blockquotes/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:33:21 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/blockquotes/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://example.org/plantillas/markdown/html/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:33:29 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/html/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horizontal Rule</title>
+      <link>https://example.org/plantillas/markdown/horizontal-rule/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:33:44 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/horizontal-rule/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Line Breaks</title>
+      <link>https://example.org/plantillas/markdown/line-breaks/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:33:54 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/line-breaks/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube Videos</title>
+      <link>https://example.org/plantillas/markdown/youtube-videos/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:26:25 +0200</pubDate>
+      <guid>https://example.org/plantillas/markdown/youtube-videos/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
