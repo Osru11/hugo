@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/plantillas/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/index.html</loc>
     <lastmod>2023-09-19T10:47:37+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/index.html</loc>
     <lastmod>2023-09-19T10:56:37+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/titulos/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/titulos/index.html</loc>
     <lastmod>2023-09-25T10:31:48+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/emphasis/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/emphasis/index.html</loc>
     <lastmod>2023-09-25T10:32:05+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/lists/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/lists/index.html</loc>
     <lastmod>2023-09-25T10:32:14+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/links/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/links/index.html</loc>
     <lastmod>2023-09-25T10:32:23+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/imagenes/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/imagenes/index.html</loc>
     <lastmod>2023-09-25T10:32:36+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/codigo/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/codigo/index.html</loc>
     <lastmod>2023-09-25T10:32:44+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/footnotes/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/footnotes/index.html</loc>
     <lastmod>2023-09-25T10:32:58+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/tablas/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/tablas/index.html</loc>
     <lastmod>2023-09-25T10:33:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/blockquotes/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/blockquotes/index.html</loc>
     <lastmod>2023-09-25T10:33:21+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/html/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/html/index.html</loc>
     <lastmod>2023-09-25T10:33:29+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/mi-plantilla/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/mi-plantilla/index.html</loc>
     <lastmod>2023-09-19T10:47:37+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/horizontal-rule/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/horizontal-rule/index.html</loc>
     <lastmod>2023-09-25T10:33:44+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/line-breaks/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/line-breaks/index.html</loc>
     <lastmod>2023-09-25T10:33:54+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/markdown/youtube-videos/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/markdown/youtube-videos/index.html</loc>
     <lastmod>2023-09-25T10:26:25+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/index.html</loc>
+    <loc>https://osru11.github.io/hugo/index.html</loc>
     <lastmod>2023-09-28T09:28:19+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/plantillas/shortcodes/index.html</loc>
+    <loc>https://osru11.github.io/hugo/plantillas/shortcodes/index.html</loc>
     <lastmod>2023-09-28T09:28:19+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/index.html</loc>
+    <loc>https://osru11.github.io/hugo/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://example.org/tags/index.html</loc>
+    <loc>https://osru11.github.io/hugo/tags/index.html</loc>
   </url>
 </urlset>

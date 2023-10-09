@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/index.html</link>
+    <link>https://osru11.github.io/hugo/index.html</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 09:28:19 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 09:28:19 +0200</lastBuildDate><atom:link href="https://osru11.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducción</title>
-      <link>https://example.org/plantillas/index.html</link>
+      <link>https://osru11.github.io/hugo/plantillas/index.html</link>
       <pubDate>Tue, 19 Sep 2023 10:47:37 +0200</pubDate>
-      <guid>https://example.org/plantillas/index.html</guid>
+      <guid>https://osru11.github.io/hugo/plantillas/index.html</guid>
       <description>Shortcodes y Markdown 2023
 Introducción A continuación en este sitio aprenderemos a utilizar markdown básicamente, por ejemplo a poner palabras en negrita , a escribir líneas de codigo o a introducir hipervínculos: echo &amp;#34;hola&amp;#34;;Acceder a google
 También aprenderemos a utilizar shortcodes como uno propio para otorgar color o simplemente uno para subrayar lineas de código: Color por defecto Texto en rojo 1# the hardest part is to start writing code; here&amp;#39;s a kickstart; just copy and paste this; it&amp;#39;s free; the next lines will cost you serious credits 2print(&amp;#34;Hello&amp;#34;) 3print(&amp;#34; &amp;#34;) 4print(&amp;#34;World&amp;#34;) 5print(&amp;#34;!</description>

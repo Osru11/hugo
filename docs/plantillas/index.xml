@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introducción on My New Hugo Site</title>
-    <link>https://example.org/plantillas/index.html</link>
+    <link>https://osru11.github.io/hugo/plantillas/index.html</link>
     <description>Recent content in Introducción on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 10:47:37 +0200</lastBuildDate><atom:link href="https://example.org/plantillas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 10:47:37 +0200</lastBuildDate><atom:link href="https://osru11.github.io/hugo/plantillas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>https://example.org/plantillas/markdown/index.html</link>
+      <link>https://osru11.github.io/hugo/plantillas/markdown/index.html</link>
       <pubDate>Tue, 19 Sep 2023 10:56:37 +0200</pubDate>
-      <guid>https://example.org/plantillas/markdown/index.html</guid>
+      <guid>https://osru11.github.io/hugo/plantillas/markdown/index.html</guid>
       <description>Cheatsheet Índice: Títulos Emphasis Lists Links Imágenes Code and Syntax Highlighting Footnotes Tablas Blockquotes Inline HTML Horizontal Rule Line Breaks YouTube Videos </description>
     </item>
     <item>
       <title>Datos de tv</title>
-      <link>https://example.org/plantillas/mi-plantilla/index.html</link>
+      <link>https://osru11.github.io/hugo/plantillas/mi-plantilla/index.html</link>
       <pubDate>Tue, 19 Sep 2023 10:47:37 +0200</pubDate>
-      <guid>https://example.org/plantillas/mi-plantilla/index.html</guid>
+      <guid>https://osru11.github.io/hugo/plantillas/mi-plantilla/index.html</guid>
       <description>Listado </description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://example.org/plantillas/shortcodes/index.html</link>
+      <link>https://osru11.github.io/hugo/plantillas/shortcodes/index.html</link>
       <pubDate>Thu, 28 Sep 2023 09:28:19 +0200</pubDate>
-      <guid>https://example.org/plantillas/shortcodes/index.html</guid>
+      <guid>https://osru11.github.io/hugo/plantillas/shortcodes/index.html</guid>
       <description></description>
     </item>
   </channel>
