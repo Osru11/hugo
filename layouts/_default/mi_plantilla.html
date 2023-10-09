@@ -1,0 +1,11 @@
+{{- partial "header.html" . }}
+{{- partial "content.html" . }}
+<ul>
+{{range .Site.Data.datostv}}
+    <h2>{{.name}}</h2>
+    {{range .channels}}
+        <a href="{{.web}}"><img src="{{.logo}}" alt="{{.name}}">
+    {{end}}
+{{end}}
+</ul>
+{{- partial "footer.html" .}}
